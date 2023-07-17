@@ -2,6 +2,8 @@
 
 This project showcases the usage of the AWS CDK Auto-Deletion Construct to automate the cleanup of AWS CloudFormation stacks.
 
+https://www.npmjs.com/package/cdk-aws-cleaner
+
 ## Prerequisites
 
 - AWS CDK installed
